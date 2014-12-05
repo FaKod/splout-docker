@@ -1,6 +1,6 @@
 # This is a comment
 FROM sequenceiq/hadoop-docker:2.6.0
-MAINTAINER Fakod <fakod666@gamil.com>
+MAINTAINER Fakod <fakod666@gmail.com>
 
 USER root
 
