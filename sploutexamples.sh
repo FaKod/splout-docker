@@ -11,4 +11,4 @@ hadoop jar splout-hadoop-0.3.0-hadoop.jar simple-generate --input examples/world
   --partitions 4 
 
 hadoop jar splout-hadoop-0.3.0-hadoop.jar deploy --root database-files --tablespaces city_pby_country_code \
-  --replication 2 --qnode http://localhost:4412
+  --replication 1 --qnode http://localhost:4412
