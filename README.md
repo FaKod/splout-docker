@@ -37,5 +37,6 @@ bin/hdfs dfs -cat output/*
 # run the Splout examples
 /root/sploutexamples.sh
 # check the result in the Splout Query Panel 
+# f.e. with 'SELECT * FROM city WHERE country_code = "JPN"' and Partition key 'JPN'
 ```
 
